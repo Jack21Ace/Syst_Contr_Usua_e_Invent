@@ -1,1 +1,2 @@
-# Syst_Contr_Usua_e_Invent
+# Sistema de control de inventarios y administracion de usuarios
+# Tipo Dashboard
